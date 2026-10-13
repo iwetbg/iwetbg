@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hai! :D
 
 <!--
 **iwetbg/iwetbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>Fun fact: I wanna sleep</p>
+<p align="center">
+  <img width="540" height="404" alt="a63b296e531bb6847bd6163ff364b891" src="https://github.com/user-attachments/assets/95653c86-d5c6-4240-af64-105eddbc3385" />
+</p>
