@@ -8,8 +8,12 @@ I'm Iwetbg, student, 18
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+<img height="20" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
-<p>Fun fact: I wanna sleep</p>
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+
+
+<p><b>Fun fact:</b> I wanna sleep</p>
 <p align="center">
   <img width="540" height="404" alt="a63b296e531bb6847bd6163ff364b891" src="https://github.com/user-attachments/assets/95653c86-d5c6-4240-af64-105eddbc3385" />
 </p>
