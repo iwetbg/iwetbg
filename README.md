@@ -6,12 +6,15 @@ I'm Iwetbg, student, 18
 <img height="20" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
 </p>
 
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+<p>
+<img height="20" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=blue"/>
+<img height="20" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"/>
+<img height="20" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"/>
 <img height="20" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
 
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-
+<img height="20" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <p><b>Fun fact:</b> I wanna sleep</p>
 <p align="center">
