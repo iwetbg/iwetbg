@@ -20,3 +20,5 @@ I'm Iwetbg, student, 18
 <p align="center">
   <img width="540" height="404" alt="a63b296e531bb6847bd6163ff364b891" src="https://github.com/user-attachments/assets/95653c86-d5c6-4240-af64-105eddbc3385" />
 </p>
+
+<img height="20" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="t.me/imeijyay"/>
